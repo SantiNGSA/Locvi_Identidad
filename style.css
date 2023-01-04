@@ -131,6 +131,9 @@ padding: 1em 0;
   display: flex;
   align-items: center;
   width: 80%;
+  -webkit-box-shadow: 1px 1px 10px 0px rgba(0,0,0,0.15);
+-moz-box-shadow: 1px 1px 10px 0px rgba(0,0,0,0.15);
+box-shadow: 1px 1px 10px 0px rgba(0,0,0,0.15);
 
 }
 .lateral_nav a span{
