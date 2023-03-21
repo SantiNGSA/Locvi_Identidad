@@ -386,6 +386,7 @@ width: 800px;
 @media (min-width:1700px){
   footer{
     position: fixed;
+    font-size: 10px;
   }
   .logotipo_container{
     display: flex;
@@ -454,7 +455,7 @@ width: 800px;
     left:0;
     /* padding: 1em 0 ;
     text-align: center; */
-    font-size: 10pt;
+    font-size: 8px;
 
     
   }
@@ -595,6 +596,9 @@ margin: 1em 0 0;
   }
   .iso_alegre{
     margin: 50px 0;
+  }
+  .license{
+    font-size: 1px;
   }
 }
 
